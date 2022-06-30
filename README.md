@@ -24,6 +24,12 @@ http://bus.busan.go.kr/busanBIMS/bus_map/map_main.asp?menuNum=1&mapGubun=daum
 
 https://stcis.go.kr/wps/main.do
 
+## 자료 출처
+### 부산버스 정류장 좌표(SHP)
+ - https://www.data.go.kr/data/15084251/fileData.do
+### SHP파일 뷰어 다운로드 주소
+ - https://bomul.com/software/edsviewer
+
 ### 첫회의 목표(2022/06/25)
  - 어떤 모델을 하면 좋을지 브레엔스토밍
  - 버스 노선 정리
