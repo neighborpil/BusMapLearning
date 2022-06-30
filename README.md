@@ -32,6 +32,9 @@ https://docs.google.com/document/d/1fMpqJcO1evuoGz4R55mj5slP8WiBfMKW3qi2_ghvlxU/
  - https://www.data.go.kr/data/15084251/fileData.do
 ### SHP파일 뷰어 다운로드 주소
  - https://bomul.com/software/edsviewer
+ 
+### 부산광역시 버스정보API
+ - https://www.data.go.kr/iim/api/selectDevAcountRequestForm.do?publicDataDetailPk=uddi:0ef729a3-1d88-49c0-853f-b74ade940ac3_202110261804
 
 ## 주간 목표
 
