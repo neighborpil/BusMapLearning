@@ -45,3 +45,8 @@ https://docs.google.com/document/d/1fMpqJcO1evuoGz4R55mj5slP8WiBfMKW3qi2_ghvlxU/
  - 버스 노선별 좌표값
 
 ### 두번째 목표(2022/07/03)
+
+### 국가 통계 사이트
+### 두번째 목표(2022/07/03)
+
+https://kosis.kr/statHtml/statHtml.do?orgId=202&tblId=DT_1301010
